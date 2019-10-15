@@ -21,54 +21,43 @@ Hacktoberfest memberikan hadiah menarik seperti t-shirt & sticker bagi kontribut
 
 Berikut cara berkontribusi ke project ini :
 
-### 1. Contributors
-Tambahkan nama anda ke file `CONTRIBUTORS.md`. Dengan format sebagai berikut :
-```markdown
-#### Nama: [Nama Lengkap](GitHub link)
-- Lokasi: Nama Daerah, Kota/Kabupaten
-- Bio: Bio singkat anda (Profesi dan dimana )
-- FB: [Facebook Name](Facebook Profile link)
-```
 
-### 2. Profile
+### 1. Profile
 Tambahkan file `username_github.md` ke dalam folder `profiles`. Isi nya tentang profile anda , buatlah se kreatif mungkin dengan markdown. Contoh
 
 ```markdown
 # Nama Lengkap
-
 Github : [Your Name](GitHub Link)
 Facebook : [Your Name](Facebook Profile Link)
 
 ### Lokasi
-
-Your City/Country
+Nama Daerah, Kota/Kabupaten
 
 ### 2nd Home
-
 Nama Sekolah / Kampus / Perusahaan
 
 ### Bidang yang di minati
-
 - Mobile, Web, IOT dsb 
 
 ### Inspirational Quote
-
 > “Talk is cheap. Show me the code. - Linus Torvald
 
-### Projects
-
+### Projects (Optional)
 - [My Project](GitHub Link) Short Description
 
 ```
 
 
-### 3. Scripts
+### 2. Scripts
 Tambahkan script bahasa program favorite anda ke folder `script`, Sesuai aturan berikut :
   * Tambahkan folder baru untuk script anda & tempatkan sesuai dengan folder bahasa program yang tersedia. 
   * Di dalam folder script sertakan `README.md` yang berisi penjelasan tentang script, input & output
   * Jika folder bahasa pemograman tidak tersedia silahkan submit di halaman `issue`
  
 
+**Perhatian :**
+Jangan merubah file `CONTRIBUTORS.md`. 
+Nama kontributor akan di tampilkan disini jika PR nya sudah di merge.
 
 
 ## Getting started
