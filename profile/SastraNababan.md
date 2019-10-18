@@ -1,4 +1,4 @@
-# Nama Lengkap
+# Tentang
 Github : [Sastra Nababan](https://github.com/SastraNababan)
 Facebook : [Sastra Nababan](https://www.facebook.com/sastranababan)
 
