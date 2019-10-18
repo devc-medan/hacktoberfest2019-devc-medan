@@ -1,6 +1,6 @@
 # Tentang
-Github : [Padlian Chairi](GitHub Link)
-Facebook : [Padlian Chairi](Facebook Profile Link)
+Github : [Padlian](https://github.com/padlian)
+Facebook : [Padlian Chairi](https://www.facebook.com/padlian)
 
 ### Lokasi
 Medan, Sumatera Utara
