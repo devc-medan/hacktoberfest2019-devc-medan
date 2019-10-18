@@ -26,7 +26,7 @@ Berikut cara berkontribusi ke project ini :
 Tambahkan file `username_github.md` ke dalam folder `profiles`. Isi nya tentang profile anda , buatlah se kreatif mungkin dengan markdown. Contoh
 
 ```markdown
-# Nama Lengkap
+# Tentang
 Github : [Your Name](GitHub Link)
 Facebook : [Your Name](Facebook Profile Link)
 
