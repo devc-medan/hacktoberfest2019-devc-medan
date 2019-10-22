@@ -1,0 +1,2 @@
+## Recursion
+Recursion atau bahasa Indonesianya rekursif adalah fungsi yang memanggil dirinya sendiri secara langsung ataupun tidak. Masalah yang dapat diselesaikan secara rekursif adalah masalah yang dibagi menjadi satu atau lebih masalah-masalah serupa yang kecil.
