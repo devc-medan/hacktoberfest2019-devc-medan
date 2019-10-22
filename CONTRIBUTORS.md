@@ -21,8 +21,14 @@
 ### [Ifan Zalukhu](https://github.com/ifanzalukhu97)
 * **Location**: Teladan, Medan
 
+### [kaye5](https://github.com/kaye5)
+* **Location**: Medan, Sumatera Utara, Indonesia
+
 ### [Mohammad Iqbal](https://github.com/iqbalhood)
 * **Location**: Jalan Mongonsidi No.6 Medan
+
+### [muharriana](https://github.com/muharyns)
+* **Location**: Durian, Medan
 
 ### [Padlian](https://github.com/PadlianChairi)
 * **Location**: Medan, Sumatera Utara
@@ -35,10 +41,4 @@
 
 ### [Yudi Setiawan](https://github.com/coderjava)
 * **Location**: Jalan Klambir 5 no.65 Medan
-
-### [kaye5](https://github.com/kaye5)
-* **Location**: Medan, Sumatera Utara, Indonesia
-
-### [muharriana](https://github.com/muharyns)
-* **Location**: Durian, Medan
 
