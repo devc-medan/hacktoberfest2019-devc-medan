@@ -18,6 +18,9 @@
 ### [Fauzan Lubis](https://github.com/FauzanLbs)
 * **Location**: Kuala Lumpur
 
+### [Hendri Korasi Simbolon](https://github.com/hendrikorasisimbolon)
+* **Location**: Deli Serdang, Sumatera Utara, Indonesia
+
 ### [Ifan Zalukhu](https://github.com/ifanzalukhu97)
 * **Location**: Teladan, Medan
 
