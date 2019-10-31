@@ -1,0 +1,1 @@
+ Queue (Antrian) adalah suatu kumpulan data yang mana penambahan data / elemen hanya dapat dilakukan pada sisi belakang sedangkan penghapusan / pengeluaran elemen dilakukan pada sisi depan. Jenis struktur data antrian sering digunakan untuk menstimulasikan keadaan dunia nyata. 
