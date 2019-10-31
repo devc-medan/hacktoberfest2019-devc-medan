@@ -16,3 +16,4 @@ DevC Medan
 
 ### Projects (Optional)
 - [React Native Example Grocery App](https://github.com/SastraNababan/grocery-app)
+- [GraphQL Workshop](https://github.com/SastraNababan/graphql-workshop)
