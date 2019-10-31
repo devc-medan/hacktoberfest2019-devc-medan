@@ -1,0 +1,1 @@
+Linked list (senarai bertautan; daftar bertautan) adalah salah satu cara untuk menyimpan sekumpulan elemen. Sama halnya dengan array, elemen yang disimpan dapat berupa karakter atau integer. Masing-masing elemen dalam linked list disimpan dalam bentuk sebuah node.
